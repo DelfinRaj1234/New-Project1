@@ -11,7 +11,7 @@ public class Sample {
 				no = no / 10;
 			}
 			 System.out.println(sum);
-			 System.out.println("============");
+			System.out.println("Completed...!");
 	}
 }
 
